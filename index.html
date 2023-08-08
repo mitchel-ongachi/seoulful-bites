@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seoulful Bites</title>
+    <link rel="stylesheet" href="styles.css"/>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet"> 
+    <link rel="icon" type="image/jpg" href="https://www.koreanbapsang.com/wp-content/uploads/2015/05/DSC_0917-2-e1566061945769.jpg">
+</head>
+<body>
+    <section>
+        <div id="container">
+            <header>
+                <h1><i>Your Korean Culinary Adventure</i></h1>
+                <div id="menu-sidebar">
+                    <label class="menu-button" for="menu-toggle">&#9776; Menu</label>
+                    <input type="checkbox" id="menu-toggle"> 
+                    <div id="categories" style="display: none;">
+                        <button class="category-button" data-category="Drinks">Drinks</button>
+                        <button class="category-button" data-category="Snacks">Snacks</button>
+                        <button class="category-button" data-category="Meals">Meals</button>
+                    </div>
+                </div>
+            </header>
+        </div>
+    </section>
+        
+    <section>
+        <main>
+            <div class="food-container">
+                <div class="image-container"></div>
+            </div>
+            <div class="food-details" style="display: none;">
+                <h3>Food Details</h3>
+                <div class="food-image">image</div>
+                <ul class="ingredients-list">Ingredients</ul>
+            </div>
+        </main>
+    </section>
+
+    <section>
+        <div class="review-container">
+            <h3>Leave a Review</h3>
+            <form class="review-form">
+                <input type="text" placeholder="Write your Review here"/>
+                <button type="submit">Submit Review</button>
+                <button id="delete-review-button">Delete Review</button>
+    
+            </form>
+        </div>
+    </section>
+
+    
+    <script src="main.js"></script>
+</body>
+</html>

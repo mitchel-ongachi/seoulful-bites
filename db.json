@@ -1,0 +1,188 @@
+{
+    "koreanFoods": [
+      {
+        "name": "Bibimbap",
+        "type": "meal",
+        "ingredients": [
+          "Cooked rice",
+          "Assorted vegetables (carrots, spinach, bean sprouts, mushrooms, zucchini)",
+          "Beef (optional)",
+          "Soy sauce",
+          "Sesame oil",
+          "Gochujang (Korean red pepper paste)"
+        ],
+        "image": "images/bibimbap icon.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Kimchi",
+        "type": "side",
+        "ingredients": [
+          "Napa cabbage",
+          "Korean radish",
+          "Garlic",
+          "Ginger",
+          "Red pepper powder",
+          "Fish sauce",
+          "Sugar",
+          "Salted shrimp (saeujeot)"
+        ],
+        "image": "",
+        "reviews": []
+      },
+      {
+        "name": "Tteokbokki",
+        "type": "snack",
+        "ingredients": [
+          "Rice cakes",
+          "Gochujang",
+          "Gochugaru",
+          "Fish cakes",
+          "Onions",
+          "Scallions",
+          "Garlic",
+          "Soy sauce",
+          "Sugar",
+          "Water"
+        ],
+        "image": "images/tteokbokki.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Samgyeopsal",
+        "type": "meal",
+        "ingredients": [
+          "Thinly sliced pork belly",
+          "Garlic",
+          "Onions",
+          "Salt",
+          "Pepper",
+          "Lettuce leaves",
+          "Ssamjang (dipping sauce)",
+          "Side dishes (kimchi, pickled radish)"
+        ],
+        "image": "images/samgyeopsal icon.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Sikhye",
+        "type": "drink",
+        "alcoholic": false,
+        "ingredients": [
+          "Cooked rice",
+          "Water",
+          "Sugar",
+          "Pine nuts (optional)"
+        ],
+        "image": "images/sikhye icon.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Makgeolli",
+        "type": "drink",
+        "alcoholic": true,
+        "ingredients": [
+          "Rice",
+          "Water",
+          "Nuruk (fermentation starter)",
+          "Optional flavorings (fruit, herbs)"
+        ],
+        "image": "images/makgeolli icon.jpeg",
+        "reviews": []
+      },
+      
+      {
+        "name": "Sujeonggwa",
+        "type": "drink",
+        "alcoholic": false,
+        "ingredients": [
+          "Cinnamon sticks",
+          "Ginger",
+          "Dried persimmons",
+          "Sugar",
+          "Water"
+        ],
+        "image_url": "images/sujeonggwa med.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Bori Cha",
+        "type": "drink",
+        "alcoholic": false,
+        "ingredients": [
+          "Barley",
+          "Water"
+        ],
+        "image": "images/bori cha med.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Soju",
+        "type": "drink",
+        "alcoholic": true,
+        "ingredients": [
+          "Rice",
+          "Barley",
+          "Sweet potatoes",
+          "Tapioca",
+          "Wheat (varies depending on the type)"
+        ],
+        "image": "images/soju icon.jpeg",
+        "reviews": []
+      },
+      
+      {
+        "name": "Japchae",
+        "type": "meal",
+        "ingredients": [
+          "Sweet potato glass noodles",
+          "Beef (or mushrooms for a vegetarian version)",
+          "Carrots",
+          "Spinach",
+          "Onions",
+          "Garlic",
+          "Soy sauce",
+          "Sesame oil",
+          "Sugar",
+          "Sesame seeds"
+        ],
+        "image": "images/japchae icon.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Bulgogi",
+        "type": "meal",
+        "ingredients": [
+          "Thinly sliced marinated beef",
+          "Soy sauce",
+          "Sugar",
+          "Sesame oil",
+          "Garlic",
+          "Pears (for tenderizing)",
+          "Onions",
+          "Sesame seeds",
+          "Lettuce leaves (for wrapping)"
+        ],
+        "image": "images/bulgogi icon.jpeg",
+        "reviews": []
+      },
+      {
+        "name": "Haemul Pajeon",
+        "type": "meal",
+        "ingredients": [
+          "Green onions (scallions)",
+          "Seafood (shrimp, squid, clams)",
+          "Eggs",
+          "Flour",
+          "Water",
+          "Soy sauce",
+          "Sesame oil"
+        ],
+        "image": "images/haemul pajeon icon.jpeg",
+        "reviews": []
+      }
+    ]
+  }
+  
+  
+  
